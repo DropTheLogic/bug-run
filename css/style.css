@@ -1,6 +1,8 @@
 body {
     text-align: center;
-    background-color: steelblue;
+    background-color: #7689E1;
+    font-family: 'Courier', sans-serif;
+    overflow: hidden;
 }
 
 h1 {
@@ -18,4 +20,24 @@ h1 {
 	padding: 5px 25px;
 	border: 3px double #000;
 	background-color: #fff;
+}
+
+#readme-popup a object {
+	display: none;
+}
+
+#readme-popup a:hover object {
+	display: block;
+	position: relative;
+	top: -210px;
+	width: 505px;
+	height: 210px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px 25px;
+	color: #335500;
+	background: #e5e5e5;
+	text-align: left;
+	border: 3px double #000;
+	overflow: hidden;
 }
