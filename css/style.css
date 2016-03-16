@@ -1,3 +1,21 @@
 body {
     text-align: center;
+    background-color: steelblue;
+}
+
+h1 {
+	font: bold 36px 'Courier', sans-serif;
+    border: 3px double #000;
+    width: 505px;
+    padding: 5px 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1px;
+    background-color: #fff;
+}
+
+.game {
+	padding: 5px 25px;
+	border: 3px double #000;
+	background-color: #fff;
 }
