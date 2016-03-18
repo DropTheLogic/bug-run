@@ -1,4 +1,5 @@
 BUG RUN!
+by Danny Marquez and Udacity
 ===============================
 
 Version 1.0
